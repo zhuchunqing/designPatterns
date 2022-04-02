@@ -5,3 +5,7 @@
 /Creator/FactoryPatterns/DesignPatterns/.vs/DesignPatterns/DesignTimeBuild
 /Creator/FactoryPatterns/DesignPatterns/StrategyPatterns/bin/Debug/net6.0
 /Creator/FactoryPatterns/DesignPatterns/StrategyPatterns/obj
+/Creator/FactoryPatterns/DesignPatterns/BuilderPatterns/obj
+/Creator/FactoryPatterns/DesignPatterns/.vs
+
+/Creator/FactoryPatterns/DesignPatterns/BuilderPatterns/BuilderPatterns.csproj
