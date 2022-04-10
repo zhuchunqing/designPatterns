@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPatterns
 {
-    internal interface IFoods
+    internal class pottoes : IFoods
     {
-        void GetFood();
+        public void GetFood()
+        {
+            Console.WriteLine("pottoes");
+        }
     }
 }
