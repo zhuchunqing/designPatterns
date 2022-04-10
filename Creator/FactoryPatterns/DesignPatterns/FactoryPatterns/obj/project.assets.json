@@ -8,36 +8,30 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\74217\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\YC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\SimpleFactoryPatterns.csproj",
-      "projectName": "SimpleFactoryPatterns",
-      "projectPath": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\SimpleFactoryPatterns.csproj",
-      "packagesPath": "C:\\Users\\74217\\.nuget\\packages\\",
-      "outputPath": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\obj\\",
+      "projectUniqueName": "D:\\C#\\DesignPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\FactoryPatterns.csproj",
+      "projectName": "FactoryPatterns",
+      "projectPath": "D:\\C#\\DesignPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\FactoryPatterns.csproj",
+      "packagesPath": "C:\\Users\\YC\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\DesignPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\74217\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\YC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://packages.nuget.org/v1/FeedService.svc/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
