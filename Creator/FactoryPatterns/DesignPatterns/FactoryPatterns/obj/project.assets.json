@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\FactoryPatterns.csproj",
-      "projectName": "FactoryPatterns",
-      "projectPath": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\FactoryPatterns.csproj",
+      "projectUniqueName": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\SimpleFactoryPatterns.csproj",
+      "projectName": "SimpleFactoryPatterns",
+      "projectPath": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\SimpleFactoryPatterns.csproj",
       "packagesPath": "C:\\Users\\74217\\.nuget\\packages\\",
       "outputPath": "E:\\C#Code\\designpatterns\\designPatterns\\Creator\\FactoryPatterns\\DesignPatterns\\FactoryPatterns\\obj\\",
       "projectStyle": "PackageReference",

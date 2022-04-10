@@ -8,3 +8,8 @@ oper.NumberA = 2;
 oper.NumberB = 3;
 double result=oper.GetResult();
 Console.WriteLine(result);
+Console.ReadLine();
+Console.WriteLine("hello world");
+Console.ReadLine();
+
+  
