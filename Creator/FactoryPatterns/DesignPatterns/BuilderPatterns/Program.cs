@@ -2,8 +2,9 @@
 using BuilderPatterns;
 
 Console.WriteLine("Hello, World!");
-ComputerDirector director = new ComputerDirector();//1
+
 IBuilder builder = new MacBuilder("I5处理器", "三星125");//2
+ComputerDirector director = new ComputerDirector(builder);//1
 director.makeComputer(builder);//3
 Computer macComputer = builder.getComputer();//4
 Console.WriteLine("mac computer:" + macComputer.toString());
